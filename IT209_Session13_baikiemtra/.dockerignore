@@ -1,0 +1,15 @@
+.git
+.gitignore
+.gradle
+build/classes
+build/generated
+build/reports
+build/tmp
+out
+.idea
+*.iml
+.vscode
+Dockerfile*
+docker-compose*.yml
+compose*.yml
+README.md
